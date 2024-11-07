@@ -1,4 +1,4 @@
-After you extract the zip file;
+RUST 1.80 
 
 Open the DiskScanner.exe
 click select folder button to choose which folder you want to scan
